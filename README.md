@@ -1,4 +1,6 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
+## NAME:kunam poorna chandra rao
+## REG.NO:2305001012
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
@@ -68,6 +70,7 @@ print("Decrypted Message:", decrypted)
 
 ## Output:
 
+<img width="610" height="302" alt="image" src="https://github.com/user-attachments/assets/a1e944a9-97e2-45ca-834a-0e069438b1d0" />
 
 
 ## Result:
